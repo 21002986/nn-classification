@@ -171,25 +171,29 @@ print(le.inverse_transform(x_single_prediction))
 
 ## Dataset Information
 
-Include screenshot of the dataset
+![](https://github.com/21002986/nn-classification/blob/main/1.png)
 
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
+![](https://github.com/21002986/nn-classification/blob/main/2.png)
 
-Include your plot here
 
 ### Classification Report
+![](https://github.com/21002986/nn-classification/blob/main/3.png)
 
-Include Classification Report here
+
+
 
 ### Confusion Matrix
+![](https://github.com/21002986/nn-classification/blob/main/4.png)
 
-Include confusion matrix here
 
 
 ### New Sample Data Prediction
+![](https://github.com/21002986/nn-classification/blob/main/5.png)
 
-Include your sample input and output here
+
 
 ## RESULT
+Thus a Neural Network Classification Model is developed and executed successfully
