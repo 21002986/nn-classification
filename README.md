@@ -12,26 +12,26 @@ In their existing market, the sales team has classified all customers into 4 seg
 
 You are required to help the manager to predict the right group of the new customers.
 
-## Neural Network Model
 
-Include the neural network model diagram.
 
 ## DESIGN STEPS
 
 ### STEP 1:
+Load the csv file and then use the preprocessing steps to clean the data
 
 ### STEP 2:
+Split the data to training and testing
 
 ### STEP 3:
-Write your own steps
+Train the data and then predict using Tensorflow Write your own steps
 
 ## PROGRAM
 
 /*
 
-Devoloped by:Atluru Sai Vardhan Reddy
+Devoloped by:K Sai Vinay
 
-RegisterNumber:212221040022
+RegisterNumber:212221040069
 
 */
 
